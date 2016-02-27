@@ -1,4 +1,4 @@
-window.onload=function(){
+window.onload = function(){
 	var defaultParams = {
 		"pNode" : "main",
 		"boxClass" : "box",
